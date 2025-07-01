@@ -15,7 +15,7 @@ export default function App() {
     setLoading(true);
     setError("");
     try {
-      let res = await fetch(apiUrrl);
+      let res = await fetch(apiUrl);
       let output = await res.json();
       setCourses(output.data);
     } catch (error) {
