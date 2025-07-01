@@ -1,12 +1,47 @@
-# React + Vite
+# 🎓 CourseCraft
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern and responsive course browsing web app where users can explore various educational courses. Built with React and deployed using Vercel.
 
-Currently, two official plugins are available:
+🚀 **Live Demo**: [https://course-craft-sable.vercel.app/](https://course-craft-sable.vercel.app/)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## 📸 Preview
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+![CourseCraft Preview](https://codehelp-apis.vercel.app/get-top-courses/Development/Web%20Development%20Fundamentals.png) <
+
+---
+
+## 🧩 Features
+
+- 📦 Fetches course data from an external API
+- 🔍 Error handling to manage bad data or failed fetch
+- 🎨 Clean and modern UI using React
+- ⚡ Fast and responsive design
+- 🌐 Deployed with Vercel
+
+---
+
+## 🛠 Tech Stack
+
+- **Frontend**: React, JSX, CSS
+- **Build Tool**: Vite
+- **Deployment**: Vercel
+- **Version Control**: Git + GitHub
+
+---
+
+## 🚀 Getting Started
+
+```bash
+# Clone the repo
+git clone https://github.com/Chandankumar2131/Course_Craft.git
+
+# Navigate to the project directory
+cd Course_Craft
+
+# Install dependencies
+npm install
+
+# Run locally
+npm run dev
